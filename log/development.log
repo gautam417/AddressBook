@@ -1,0 +1,7 @@
+  [1m[35m (4.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ test/test_helper.rb:3:in `<main>'
+DEPRECATION WARNING: ActionDispatch::Http::ParameterFilter is deprecated and will be removed from Rails 6.1. Use ActiveSupport::ParameterFilter instead. (called from const_get at /Library/Ruby/Gems/2.6.0/gems/sorbet-0.5.5870/lib/real_stdlib.rb:77)
+DEPRECATION WARNING: ActionDispatch::Http::ParameterFilter is deprecated and will be removed from Rails 6.1. Use ActiveSupport::ParameterFilter instead. (called from const_get at /Library/Ruby/Gems/2.6.0/gems/sorbet-0.5.5870/lib/serialize.rb:104)
+DEPRECATION WARNING: ActionDispatch::Http::ParameterFilter is deprecated and will be removed from Rails 6.1. Use ActiveSupport::ParameterFilter instead. (called from const_get at /Library/Ruby/Gems/2.6.0/gems/sorbet-0.5.5870/lib/serialize.rb:118)
+DEPRECATION WARNING: SourceAnnotationExtractor is deprecated! Use Rails::SourceAnnotationExtractor instead. (called from class_or_module at /Library/Ruby/Gems/2.6.0/gems/sorbet-0.5.5870/lib/serialize.rb:142)
+DEPRECATION WARNING: ActionDispatch::Http::ParameterFilter is deprecated and will be removed from Rails 6.1. Use ActiveSupport::ParameterFilter instead. (called from const_get at /Library/Ruby/Gems/2.6.0/gems/sorbet-0.5.5870/lib/hidden-definition-finder.rb:327)
